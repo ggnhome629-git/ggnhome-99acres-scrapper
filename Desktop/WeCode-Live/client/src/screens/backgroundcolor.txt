@@ -1,0 +1,135 @@
+style={{
+      background: "linear-gradient(to bottom right,rgb(56, 17, 83), #000)",
+      minHeight: "100vh",
+      color: "#fff",
+    }}
+
+
+
+<div
+    style={{
+        padding: "30px",
+        fontFamily: "Arial",
+        minHeight: "100vh",
+        background: "linear-gradient(to bottom right,rgb(56, 17, 83), #000)",
+        color: "#fff",
+      }}
+  >
+      {/* Navbar */}
+      
+      <nav
+  style={{
+    position: "fixed",
+    top: 0,
+    left: 0,
+    width: "100%",
+    height: "80px",
+    backgroundColor: "rgba(0, 0, 0, 0.85)",
+    display: "flex",
+    justifyContent: "space-between",
+    alignItems: "center",
+    paddingLeft: "20px",
+    paddingRight: "5px",
+    color: "#fff",
+    zIndex: 10,
+    boxShadow: "0 2px 10px rgba(0,0,0,0.3)",
+    backdropFilter: "blur(10px)",
+  }}
+>
+  {/* Left - Logo */}
+  <div style={{ fontSize: "1.5rem", fontWeight: "bold" }}>
+    WeCode Dashboard
+  </div>
+
+  {/* Center - Links */}
+  <div style={{ display: "flex", gap: "25px", fontSize: "15px" }}>
+    <a href="#home" style={linkStyle}>Home</a>
+    <a href="#courses" style={linkStyle}>Courses</a>
+    <a href="#about" style={linkStyle}>About</a>
+    <a href="#webdev" style={linkStyle}>Web Dev</a>
+    <a href="#dsa" style={linkStyle}>DSA</a>
+    <a href="#devops" style={linkStyle}>DevOps</a>
+  </div>
+
+  {/* Right - Profile Menu */}
+  <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
+    <div style={{ position: "relative" }}>
+      <button
+        style={{
+          background: "rgba(255,255,255,0.1)",
+          padding: "15px 30px",
+          backgroundImage: `linear-gradient(to right, rgba(0, 0, 0, 0.9), rgba(9, 21, 125, 0.6))`,
+          borderRadius: "50%",
+          color: "#fff",
+          border: "1px solid rgba(255, 255, 255, 0.2)",
+          cursor: "pointer",
+          backdropFilter: "blur(5px)",
+          marginRight: "40px",
+        }}
+        onClick={handleToggleMenu}
+      >
+        Profile ▼
+      </button>
+
+      {showmenu && (
+        <div
+          style={{
+            position: "absolute",
+            top: "110%",
+            right: 0,
+            backgroundColor: "rgba(0, 0, 0, 0.95)",
+            border: "1px solid rgba(255, 255, 255, 0.2)",
+            borderRadius: "8px",
+            padding: "10px",
+            minWidth: "160px",
+            zIndex: 20,
+          }}
+        >
+          <button
+            onClick={handleNavigateToDashboard}
+            style={{
+              padding: "8px",
+              cursor: "pointer",
+              color: "#fff",
+              borderBottom: "1px solid rgba(255, 255, 255, 0.1)",
+              backgroundColor: "rgba(0, 0, 0, 0.95)",
+            }}
+          >
+            Dashboard
+          </button>
+          <button
+            style={{
+              padding: "8px",
+              cursor: "pointer",
+              color: "#fff",
+              backgroundColor: "rgba(0, 0, 0, 0.95)",
+              border: "none",
+              width: "100%",
+              textAlign: "left",
+              borderBottom: "1px solid rgba(255, 255, 255, 0.1)",
+            }}
+            onClick={() => {
+              console.log("Problem Solved clicked");
+            }}
+          >
+            Problem Solved
+          </button>
+          <button
+            onClick={handleLogoutClick}
+            style={{
+              padding: "8px",
+              cursor: "pointer",
+              color: "#fff",
+              backgroundColor: "rgba(0, 0, 0, 0.95)",
+              border: "none",
+              width: "100%",
+              textAlign: "left",
+            }}
+          >
+            Logout
+          </button>
+        </div>
+      )}
+    </div>
+  </div>
+</nav>
