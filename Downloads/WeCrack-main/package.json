@@ -1,0 +1,29 @@
+{
+  "name": "wecrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "cd client && npm run start",
+    "server": "cd server && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecrack32/WeCrack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wecrack32/WeCrack/issues"
+  },
+  "homepage": "https://github.com/wecrack32/WeCrack#readme",
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "concurrently": "^9.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "recharts": "^3.0.2"
+  }
+}
