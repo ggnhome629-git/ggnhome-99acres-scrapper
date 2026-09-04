@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "6a994192b62d883de50e8b7f",
+    "title": "2 BHK House For Sale  In South City Ii, Sector 49",
+    "description": "2 BHK House For Sale  In South City Ii, Sector 49",
+    "price": 22500000,
+    "totalArea": {
+      "sqft": 1,
+      "configuration": "2 BHK"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Independent House, A block near Radisson Hotel, South City II, Sector 49, gurgaon",
+    "Sector": "South City II, Sector 49",
+    "images": [
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_802232_810471_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_678821_874880_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_434222_679846_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_271001_402183_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_855555_13128_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_534855_711871_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_916506_333718_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_826769_781945_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_340312_54374_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_975745_592620_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_715457_656357_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_729037_154971_original.jpg",
+      "https://assets.nobroker.in/images/8aa99b55a01e16e901a01e6fe04b3f84/8aa99b55a01e16e901a01e6fe04b3f84_663821_174339_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "createdAt": "2026-09-03T09:44:50.065Z",
+    "updatedAt": "2026-09-03T09:44:50.065Z",
+    "__v": 0
+  }
+]

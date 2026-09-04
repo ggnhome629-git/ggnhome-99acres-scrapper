@@ -1,0 +1,64 @@
+[
+  {
+    "_id": "6a994141e95907f28fbd6d64",
+    "title": "2 BHK Flat In Signature Global Park, Sector 36 For Sale  In Sector 36",
+    "description": "2 BHK Flat In Signature Global Park, Sector 36 For Sale  In Sector 36",
+    "price": 9500000,
+    "totalArea": {
+      "sqft": 800,
+      "configuration": "2 BHK"
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "location": "Sector 36, South of, Gurugram, Haryana 122103, Sector 36, gurgaon",
+    "Sector": "Sector 36",
+    "images": [
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_66324_212479_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_39061_250027_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_65159_959775_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_85507_34315_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_46078_749082_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_73249_818213_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_79229_531409_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_41641_457755_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_95596_569204_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_95406_356762_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_39409_461259_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_80298_184695_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_47434_328214_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_6014_440519_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_24104_384876_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_10980_392589_original.jpg",
+      "https://assets.nobroker.in/images/8aa9a8fc9d66dc5b019d66fa5ae90ad4/8aa9a8fc9d66dc5b019d66fa5ae90ad4_44472_73469_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "createdAt": "2026-09-03T09:43:29.401Z",
+    "updatedAt": "2026-09-03T09:43:29.401Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a994141e95907f28fbd6d6d",
+    "title": "3 BHK Flat In Signature Global, Sector 36, Sohna For Sale  In Sector 36",
+    "description": "3 BHK Flat In Signature Global, Sector 36, Sohna For Sale  In Sector 36",
+    "price": 14000000,
+    "totalArea": {
+      "sqft": 960,
+      "configuration": "3 BHK"
+    },
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "location": "Sector 36, Sohna, Gurugram, Haryana 122102, Sector 36, gurgaon",
+    "Sector": "Sector 36",
+    "images": [
+      "https://assets.nobroker.in/images/8aa9b0009c483c73019c4b513c640dcf/8aa9b0009c483c73019c4b513c640dcf_57573_170668_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "createdAt": "2026-09-03T09:43:29.708Z",
+    "updatedAt": "2026-09-03T09:43:29.708Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,849 @@
+Connected to MongoDB.
+Crawling 117 sector slug(s), 2 page(s) each, type=both.
+
+=== RENT === Already have 174 99acres rental listing(s).
+
+[R sector-1 page 1] navigating...
+[R sector-1 page 1] scanned=4 new=4 inserted so far=4
+
+[R sector-1 page 2] navigating...
+[R sector-1 page 2] no listings found, skipping.
+
+[R sector-2 page 1] navigating...
+[R sector-2 page 1] scanned=25 new=29 inserted so far=29
+
+[R sector-2 page 2] navigating...
+[R sector-2 page 2] scanned=17 new=46 inserted so far=46
+
+[R sector-3 page 1] navigating...
+[R sector-3 page 1] scanned=24 new=70 inserted so far=70
+
+[R sector-3 page 2] navigating...
+[R sector-3 page 2] scanned=24 new=94 inserted so far=94
+
+[R sector-4 page 1] navigating...
+[R sector-4 page 1] scanned=25 new=119 inserted so far=119
+
+[R sector-4 page 2] navigating...
+[R sector-4 page 2] scanned=15 new=134 inserted so far=134
+
+[R sector-5 page 1] navigating...
+[R sector-5 page 1] scanned=20 new=154 inserted so far=154
+
+[R sector-5 page 2] navigating...
+[R sector-5 page 2] no listings found, skipping.
+
+[R sector-6 page 1] navigating...
+[R sector-6 page 1] scanned=23 new=177 inserted so far=177
+
+[R sector-6 page 2] navigating...
+[R sector-6 page 2] no listings found, skipping.
+
+[R sector-7 page 1] navigating...
+[R sector-7 page 1] scanned=25 new=202 inserted so far=202
+
+[R sector-7 page 2] navigating...
+[R sector-7 page 2] scanned=25 new=227 inserted so far=227
+
+[R sector-8 page 1] navigating...
+[R sector-8 page 1] scanned=7 new=234 inserted so far=234
+
+[R sector-8 page 2] navigating...
+[R sector-8 page 2] no listings found, skipping.
+
+[R sector-9 page 1] navigating...
+[R sector-9 page 1] scanned=25 new=259 inserted so far=259
+
+[R sector-9 page 2] navigating...
+[R sector-9 page 2] scanned=25 new=284 inserted so far=284
+
+[R sector-10 page 1] navigating...
+[R sector-10 page 1] scanned=25 new=309 inserted so far=309
+
+[R sector-10 page 2] navigating...
+[R sector-10 page 2] scanned=9 new=318 inserted so far=318
+
+[R sector-11 page 1] navigating...
+[R sector-11 page 1] scanned=25 new=343 inserted so far=343
+
+[R sector-11 page 2] navigating...
+[R sector-11 page 2] scanned=1 new=344 inserted so far=344
+
+[R sector-12 page 1] navigating...
+[R sector-12 page 1] scanned=25 new=369 inserted so far=369
+
+[R sector-12 page 2] navigating...
+[R sector-12 page 2] scanned=6 new=375 inserted so far=375
+
+[R sector-13 page 1] navigating...
+[R sector-13 page 1] scanned=22 new=397 inserted so far=397
+
+[R sector-13 page 2] navigating...
+[R sector-13 page 2] no listings found, skipping.
+
+[R sector-14 page 1] navigating...
+[R sector-14 page 1] scanned=25 new=422 inserted so far=422
+
+[R sector-14 page 2] navigating...
+[R sector-14 page 2] scanned=25 new=447 inserted so far=447
+
+[R sector-15 page 1] navigating...
+[R sector-15 page 1] scanned=25 new=472 inserted so far=472
+
+[R sector-15 page 2] navigating...
+[R sector-15 page 2] scanned=25 new=497 inserted so far=497
+
+[R sector-16 page 1] navigating...
+[R sector-16 page 1] no listings found, skipping.
+
+[R sector-16 page 2] navigating...
+[R sector-16 page 2] no listings found, skipping.
+
+[R sector-17 page 1] navigating...
+[R sector-17 page 1] scanned=25 new=522 inserted so far=522
+
+[R sector-17 page 2] navigating...
+[R sector-17 page 2] scanned=25 new=547 inserted so far=547
+
+[R sector-18 page 1] navigating...
+[R sector-18 page 1] scanned=1 new=548 inserted so far=548
+
+[R sector-18 page 2] navigating...
+[R sector-18 page 2] no listings found, skipping.
+
+[R sector-19 page 1] navigating...
+[R sector-19 page 1] no listings found, skipping.
+
+[R sector-19 page 2] navigating...
+[R sector-19 page 2] no listings found, skipping.
+
+[R sector-20 page 1] navigating...
+[R sector-20 page 1] scanned=5 new=553 inserted so far=553
+
+[R sector-20 page 2] navigating...
+[R sector-20 page 2] no listings found, skipping.
+
+[R sector-21 page 1] navigating...
+[R sector-21 page 1] scanned=25 new=578 inserted so far=578
+
+[R sector-21 page 2] navigating...
+[R sector-21 page 2] scanned=25 new=603 inserted so far=603
+
+[R sector-22 page 1] navigating...
+[R sector-22 page 1] scanned=25 new=628 inserted so far=628
+
+[R sector-22 page 2] navigating...
+[R sector-22 page 2] scanned=25 new=653 inserted so far=653
+
+[R sector-23 page 1] navigating...
+[R sector-23 page 1] scanned=25 new=678 inserted so far=678
+
+[R sector-23 page 2] navigating...
+[R sector-23 page 2] scanned=25 new=703 inserted so far=703
+
+[R sector-24 page 1] navigating...
+[R sector-24 page 1] scanned=25 new=728 inserted so far=728
+
+[R sector-24 page 2] navigating...
+[R sector-24 page 2] scanned=25 new=753 inserted so far=753
+
+[R sector-25 page 1] navigating...
+[R sector-25 page 1] scanned=25 new=778 inserted so far=778
+
+[R sector-25 page 2] navigating...
+[R sector-25 page 2] no listings found, skipping.
+
+[R sector-26 page 1] navigating...
+[R sector-26 page 1] scanned=25 new=803 inserted so far=803
+
+[R sector-26 page 2] navigating...
+[R sector-26 page 2] scanned=25 new=828 inserted so far=828
+
+[R sector-27 page 1] navigating...
+[R sector-27 page 1] scanned=25 new=853 inserted so far=853
+
+[R sector-27 page 2] navigating...
+[R sector-27 page 2] scanned=22 new=875 inserted so far=875
+
+[R sector-28 page 1] navigating...
+[R sector-28 page 1] scanned=25 new=900 inserted so far=900
+
+[R sector-28 page 2] navigating...
+[R sector-28 page 2] scanned=25 new=924 inserted so far=924
+
+[R sector-29 page 1] navigating...
+[R sector-29 page 1] scanned=2 new=926 inserted so far=926
+
+[R sector-29 page 2] navigating...
+[R sector-29 page 2] no listings found, skipping.
+
+[R sector-30 page 1] navigating...
+[R sector-30 page 1] scanned=25 new=951 inserted so far=951
+
+[R sector-30 page 2] navigating...
+[R sector-30 page 2] scanned=25 new=976 inserted so far=976
+
+[R sector-31 page 1] navigating...
+[R sector-31 page 1] scanned=25 new=1001 inserted so far=1001
+
+[R sector-31 page 2] navigating...
+[R sector-31 page 2] scanned=25 new=1026 inserted so far=1026
+
+[R sector-32 page 1] navigating...
+[R sector-32 page 1] scanned=2 new=1028 inserted so far=1028
+
+[R sector-32 page 2] navigating...
+[R sector-32 page 2] no listings found, skipping.
+
+[R sector-33 page 1] navigating...
+[R sector-33 page 1] scanned=25 new=1053 inserted so far=1053
+
+[R sector-33 page 2] navigating...
+[R sector-33 page 2] scanned=25 new=1078 inserted so far=1078
+
+[R sector-34 page 1] navigating...
+[R sector-34 page 1] scanned=2 new=1080 inserted so far=1080
+
+[R sector-34 page 2] navigating...
+[R sector-34 page 2] no listings found, skipping.
+
+[R sector-35 page 1] navigating...
+[R sector-35 page 1] scanned=4 new=1084 inserted so far=1084
+
+[R sector-35 page 2] navigating...
+[R sector-35 page 2] no listings found, skipping.
+
+[R sector-36 page 1] navigating...
+[R sector-36 page 1] scanned=1 new=1084 inserted so far=1084
+
+[R sector-36 page 2] navigating...
+[R sector-36 page 2] no listings found, skipping.
+
+[R sector-37 page 1] navigating...
+[R sector-37 page 1] scanned=25 new=1109 inserted so far=1109
+
+[R sector-37 page 2] navigating...
+[R sector-37 page 2] scanned=25 new=1134 inserted so far=1134
+
+[R sector-38 page 1] navigating...
+[R sector-38 page 1] scanned=25 new=1159 inserted so far=1159
+
+[R sector-38 page 2] navigating...
+[R sector-38 page 2] scanned=25 new=1184 inserted so far=1184
+
+[R sector-39 page 1] navigating...
+[R sector-39 page 1] scanned=25 new=1209 inserted so far=1209
+
+[R sector-39 page 2] navigating...
+[R sector-39 page 2] scanned=25 new=1234 inserted so far=1234
+
+[R sector-40 page 1] navigating...
+[R sector-40 page 1] scanned=25 new=1259 inserted so far=1259
+
+[R sector-40 page 2] navigating...
+[R sector-40 page 2] scanned=25 new=1284 inserted so far=1284
+
+[R sector-41 page 1] navigating...
+[R sector-41 page 1] scanned=25 new=1309 inserted so far=1309
+
+[R sector-41 page 2] navigating...
+[R sector-41 page 2] scanned=25 new=1334 inserted so far=1334
+
+[R sector-42 page 1] navigating...
+[R sector-42 page 1] scanned=25 new=1334 inserted so far=1334
+
+[R sector-42 page 2] navigating...
+[R sector-42 page 2] scanned=25 new=1336 inserted so far=1336
+
+[R sector-43 page 1] navigating...
+[R sector-43 page 1] scanned=25 new=1336 inserted so far=1336
+
+[R sector-43 page 2] navigating...
+[R sector-43 page 2] scanned=25 new=1336 inserted so far=1336
+
+[R sector-44 page 1] navigating...
+[R sector-44 page 1] scanned=1 new=1336 inserted so far=1336
+
+[R sector-44 page 2] navigating...
+[R sector-44 page 2] no listings found, skipping.
+
+[R sector-45 page 1] navigating...
+[R sector-45 page 1] scanned=25 new=1336 inserted so far=1336
+
+[R sector-45 page 2] navigating...
+[R sector-45 page 2] scanned=25 new=1338 inserted so far=1338
+
+[R sector-46 page 1] navigating...
+[R sector-46 page 1] scanned=25 new=1342 inserted so far=1342
+
+[R sector-46 page 2] navigating...
+[R sector-46 page 2] scanned=25 new=1367 inserted so far=1367
+
+[R sector-47 page 1] navigating...
+[R sector-47 page 1] scanned=25 new=1392 inserted so far=1392
+
+[R sector-47 page 2] navigating...
+[R sector-47 page 2] scanned=25 new=1415 inserted so far=1415
+
+[R sector-48 page 1] navigating...
+[R sector-48 page 1] scanned=27 new=1442 inserted so far=1442
+
+[R sector-48 page 2] navigating...
+[R sector-48 page 2] scanned=25 new=1467 inserted so far=1467
+
+[R sector-49 page 1] navigating...
+[R sector-49 page 1] scanned=27 new=1494 inserted so far=1494
+
+[R sector-49 page 2] navigating...
+[R sector-49 page 2] scanned=25 new=1518 inserted so far=1518
+
+[R sector-50 page 1] navigating...
+[R sector-50 page 1] scanned=26 new=1544 inserted so far=1544
+
+[R sector-50 page 2] navigating...
+[R sector-50 page 2] scanned=25 new=1569 inserted so far=1569
+
+[R sector-51 page 1] navigating...
+[R sector-51 page 1] scanned=25 new=1594 inserted so far=1594
+
+[R sector-51 page 2] navigating...
+[R sector-51 page 2] scanned=25 new=1619 inserted so far=1619
+
+[R sector-52 page 1] navigating...
+[R sector-52 page 1] scanned=25 new=1644 inserted so far=1644
+
+[R sector-52 page 2] navigating...
+[R sector-52 page 2] scanned=25 new=1669 inserted so far=1669
+
+[R sector-53 page 1] navigating...
+[R sector-53 page 1] scanned=25 new=1694 inserted so far=1694
+
+[R sector-53 page 2] navigating...
+[R sector-53 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-53-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-54 page 1] navigating...
+[R sector-54 page 1] scanned=25 new=1719 inserted so far=1719
+
+[R sector-54 page 2] navigating...
+[R sector-54 page 2] scanned=25 new=1744 inserted so far=1744
+
+[R sector-55 page 1] navigating...
+[R sector-55 page 1] scanned=26 new=1770 inserted so far=1770
+
+[R sector-55 page 2] navigating...
+[R sector-55 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-55-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-56 page 1] navigating...
+[R sector-56 page 1] scanned=27 new=1797 inserted so far=1797
+
+[R sector-56 page 2] navigating...
+[R sector-56 page 2] scanned=25 new=1822 inserted so far=1822
+
+[R sector-57 page 1] navigating...
+[R sector-57 page 1] scanned=27 new=1849 inserted so far=1849
+
+[R sector-57 page 2] navigating...
+[R sector-57 page 2] scanned=25 new=1874 inserted so far=1874
+
+[R sector-58 page 1] navigating...
+[R sector-58 page 1] scanned=26 new=1900 inserted so far=1900
+
+[R sector-58 page 2] navigating...
+[R sector-58 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-58-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-59 page 1] navigating...
+[R sector-59 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-59-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-59 page 2] navigating...
+[R sector-59 page 2] scanned=25 new=1925 inserted so far=1925
+
+[R sector-60 page 1] navigating...
+[R sector-60 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-60-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-60 page 2] navigating...
+[R sector-60 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-60-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-61 page 1] navigating...
+[R sector-61 page 1] scanned=25 new=1950 inserted so far=1950
+
+[R sector-61 page 2] navigating...
+[R sector-61 page 2] scanned=25 new=1975 inserted so far=1975
+
+[R sector-62 page 1] navigating...
+[R sector-62 page 1] scanned=25 new=2000 inserted so far=2000
+
+[R sector-62 page 2] navigating...
+[R sector-62 page 2] scanned=25 new=2025 inserted so far=2025
+
+[R sector-63 page 1] navigating...
+[R sector-63 page 1] scanned=26 new=2051 inserted so far=2051
+
+[R sector-63 page 2] navigating...
+[R sector-63 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-63-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-64 page 1] navigating...
+[R sector-64 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-64-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-64 page 2] navigating...
+[R sector-64 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-64-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-65 page 1] navigating...
+[R sector-65 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-65-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-65 page 2] navigating...
+[R sector-65 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-65-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-65-gurgaon-ffid?preference=R&page=1"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-65-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-66 page 1] navigating...
+[R sector-66 page 1] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-66-gurgaon-ffid?preference=R&page=1" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-65-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-66-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-66 page 2] navigating...
+[R sector-66 page 2] scanned=25 new=2076 inserted so far=2076
+
+[R sector-67 page 1] navigating...
+[R sector-67 page 1] scanned=26 new=2102 inserted so far=2102
+
+[R sector-67 page 2] navigating...
+[R sector-67 page 2] scanned=25 new=2127 inserted so far=2127
+
+[R sector-68 page 1] navigating...
+[R sector-68 page 1] scanned=26 new=2153 inserted so far=2153
+
+[R sector-68 page 2] navigating...
+[R sector-68 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-68-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-69 page 1] navigating...
+[R sector-69 page 1] scanned=25 new=2178 inserted so far=2178
+
+[R sector-69 page 2] navigating...
+[R sector-69 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-69-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-70 page 1] navigating...
+[R sector-70 page 1] scanned=25 new=2203 inserted so far=2203
+
+[R sector-70 page 2] navigating...
+[R sector-70 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-70-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-71 page 1] navigating...
+[R sector-71 page 1] scanned=25 new=2228 inserted so far=2228
+
+[R sector-71 page 2] navigating...
+[R sector-71 page 2] scanned=25 new=2253 inserted so far=2253
+
+[R sector-72 page 1] navigating...
+[R sector-72 page 1] scanned=25 new=2278 inserted so far=2278
+
+[R sector-72 page 2] navigating...
+[R sector-72 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-72-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-73 page 1] navigating...
+[R sector-73 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-73-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-73 page 2] navigating...
+[R sector-73 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-73-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-74 page 1] navigating...
+[R sector-74 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-74-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-74 page 2] navigating...
+[R sector-74 page 2] scanned=25 new=2303 inserted so far=2303
+
+[R sector-75 page 1] navigating...
+[R sector-75 page 1] scanned=1 new=2304 inserted so far=2304
+
+[R sector-75 page 2] navigating...
+[R sector-75 page 2] no listings found, skipping.
+
+[R sector-76 page 1] navigating...
+[R sector-76 page 1] scanned=25 new=2329 inserted so far=2329
+
+[R sector-76 page 2] navigating...
+[R sector-76 page 2] scanned=25 new=2354 inserted so far=2354
+
+[R sector-77 page 1] navigating...
+[R sector-77 page 1] scanned=25 new=2379 inserted so far=2379
+
+[R sector-77 page 2] navigating...
+[R sector-77 page 2] scanned=25 new=2404 inserted so far=2404
+
+[R sector-78 page 1] navigating...
+[R sector-78 page 1] scanned=25 new=2429 inserted so far=2429
+
+[R sector-78 page 2] navigating...
+[R sector-78 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-78-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-79 page 1] navigating...
+[R sector-79 page 1] scanned=25 new=2454 inserted so far=2454
+
+[R sector-79 page 2] navigating...
+[R sector-79 page 2] scanned=25 new=2479 inserted so far=2479
+
+[R sector-80 page 1] navigating...
+[R sector-80 page 1] scanned=15 new=2494 inserted so far=2494
+
+[R sector-80 page 2] navigating...
+[R sector-80 page 2] no listings found, skipping.
+
+[R sector-81 page 1] navigating...
+[R sector-81 page 1] scanned=26 new=2520 inserted so far=2520
+
+[R sector-81 page 2] navigating...
+[R sector-81 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-81-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-82 page 1] navigating...
+[R sector-82 page 1] scanned=26 new=2546 inserted so far=2546
+
+[R sector-82 page 2] navigating...
+[R sector-82 page 2] scanned=25 new=2571 inserted so far=2571
+
+[R sector-83 page 1] navigating...
+[R sector-83 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-83-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-83 page 2] navigating...
+[R sector-83 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-83-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-84 page 1] navigating...
+[R sector-84 page 1] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-84-gurgaon-ffid?preference=R&page=1" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-83-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-84-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-84 page 2] navigating...
+[R sector-84 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-84-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-84-gurgaon-ffid?preference=R&page=1"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-84-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-85 page 1] navigating...
+[R sector-85 page 1] scanned=26 new=2597 inserted so far=2597
+
+[R sector-85 page 2] navigating...
+[R sector-85 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-85-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-86 page 1] navigating...
+[R sector-86 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-86-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-86 page 2] navigating...
+[R sector-86 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-86-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-85-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-86-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-87 page 1] navigating...
+[R sector-87 page 1] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-87-gurgaon-ffid?preference=R&page=1" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-86-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-87-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-87 page 2] navigating...
+[R sector-87 page 2] no listings found, skipping.
+
+[R sector-88 page 1] navigating...
+[R sector-88 page 1] scanned=23 new=2620 inserted so far=2620
+
+[R sector-88 page 2] navigating...
+[R sector-88 page 2] no listings found, skipping.
+
+[R sector-89 page 1] navigating...
+[R sector-89 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-89-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-89 page 2] navigating...
+[R sector-89 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-89-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-90 page 1] navigating...
+[R sector-90 page 1] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-90-gurgaon-ffid?preference=R&page=1" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-89-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-90-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-90 page 2] navigating...
+[R sector-90 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-90-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-90-gurgaon-ffid?preference=R&page=1"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-90-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-91 page 1] navigating...
+[R sector-91 page 1] scanned=25 new=2645 inserted so far=2645
+
+[R sector-91 page 2] navigating...
+[R sector-91 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-91-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-92 page 1] navigating...
+[R sector-92 page 1] scanned=26 new=2671 inserted so far=2671
+
+[R sector-92 page 2] navigating...
+[R sector-92 page 2] scanned=25 new=2696 inserted so far=2696
+
+[R sector-93 page 1] navigating...
+[R sector-93 page 1] scanned=25 new=2721 inserted so far=2721
+
+[R sector-93 page 2] navigating...
+[R sector-93 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-93-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-94 page 1] navigating...
+[R sector-94 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-94-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-94 page 2] navigating...
+[R sector-94 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-94-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-95 page 1] navigating...
+[R sector-95 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-95-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-95 page 2] navigating...
+[R sector-95 page 2] scanned=25 new=2746 inserted so far=2746
+
+[R sector-96 page 1] navigating...
+[R sector-96 page 1] no listings found, skipping.
+
+[R sector-96 page 2] navigating...
+[R sector-96 page 2] no listings found, skipping.
+
+[R sector-97 page 1] navigating...
+[R sector-97 page 1] no listings found, skipping.
+
+[R sector-97 page 2] navigating...
+[R sector-97 page 2] no listings found, skipping.
+
+[R sector-98 page 1] navigating...
+[R sector-98 page 1] no listings found, skipping.
+
+[R sector-98 page 2] navigating...
+[R sector-98 page 2] no listings found, skipping.
+
+[R sector-99 page 1] navigating...
+[R sector-99 page 1] scanned=25 new=2771 inserted so far=2771
+
+[R sector-99 page 2] navigating...
+[R sector-99 page 2] scanned=25 new=2796 inserted so far=2796
+
+[R sector-100 page 1] navigating...
+[R sector-100 page 1] no listings found, skipping.
+
+[R sector-100 page 2] navigating...
+[R sector-100 page 2] no listings found, skipping.
+
+[R sector-101 page 1] navigating...
+[R sector-101 page 1] scanned=1 new=2797 inserted so far=2797
+
+[R sector-101 page 2] navigating...
+[R sector-101 page 2] no listings found, skipping.
+
+[R sector-102 page 1] navigating...
+[R sector-102 page 1] scanned=26 new=2823 inserted so far=2823
+
+[R sector-102 page 2] navigating...
+[R sector-102 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-102-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-103 page 1] navigating...
+[R sector-103 page 1] scanned=25 new=2848 inserted so far=2848
+
+[R sector-103 page 2] navigating...
+[R sector-103 page 2] scanned=25 new=2873 inserted so far=2873
+
+[R sector-104 page 1] navigating...
+[R sector-104 page 1] scanned=25 new=2898 inserted so far=2898
+
+[R sector-104 page 2] navigating...
+[R sector-104 page 2] scanned=25 new=2923 inserted so far=2923
+
+[R sector-105 page 1] navigating...
+[R sector-105 page 1] scanned=25 new=2948 inserted so far=2948
+
+[R sector-105 page 2] navigating...
+[R sector-105 page 2] scanned=16 new=2964 inserted so far=2964
+
+[R sector-106 page 1] navigating...
+[R sector-106 page 1] scanned=25 new=2989 inserted so far=2989
+
+[R sector-106 page 2] navigating...
+[R sector-106 page 2] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-106-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-107 page 1] navigating...
+[R sector-107 page 1] scanned=25 new=3014 inserted so far=3014
+
+[R sector-107 page 2] navigating...
+[R sector-107 page 2] scanned=25 new=3039 inserted so far=3039
+
+[R sector-108 page 1] navigating...
+[R sector-108 page 1] scanned=25 new=3064 inserted so far=3064
+
+[R sector-108 page 2] navigating...
+[R sector-108 page 2] scanned=25 new=3089 inserted so far=3089
+
+[R sector-109 page 1] navigating...
+[R sector-109 page 1] FAILED: page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-109-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-109 page 2] navigating...
+[R sector-109 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-109-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-109-gurgaon-ffid?preference=R&page=1"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-109-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-110 page 1] navigating...
+[R sector-110 page 1] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-110-gurgaon-ffid?preference=R&page=1" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-109-gurgaon-ffid?preference=R&page=2"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-110-gurgaon-ffid?preference=R&page=1", waiting until "domcontentloaded"
+
+
+[R sector-110 page 2] navigating...
+[R sector-110 page 2] FAILED: page.goto: Navigation to "https://www.99acres.com/property-in-sector-110-gurgaon-ffid?preference=R&page=2" is interrupted by another navigation to "https://www.99acres.com/property-in-sector-110-gurgaon-ffid?preference=R&page=1"
+Call log:
+  - navigating to "https://www.99acres.com/property-in-sector-110-gurgaon-ffid?preference=R&page=2", waiting until "domcontentloaded"
+
+
+[R sector-111 page 1] navigating...
+[R sector-111 page 1] scanned=25 new=3114 inserted so far=3114
+
+[R sector-111 page 2] navigating...
+[R sector-111 page 2] scanned=25 new=3139 inserted so far=3139
+
+[R sector-112 page 1] navigating...
+[R sector-112 page 1] scanned=25 new=3164 inserted so far=3164
+
+[R sector-112 page 2] navigating...
+[R sector-112 page 2] scanned=25 new=3189 inserted so far=3189
+
+[R sector-113 page 1] navigating...
+[R sector-113 page 1] FAILED: page.evaluate: Target page, context or browser has been closed
+
+[R sector-113 page 2] navigating...
+[R sector-113 page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sector-114 page 1] navigating...
+[R sector-114 page 1] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sector-114 page 2] navigating...
+[R sector-114 page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sector-115 page 1] navigating...
+[R sector-115 page 1] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sector-115 page 2] navigating...
+[R sector-115 page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+[R badshahpur page 1] navigating...
+[R badshahpur page 1] FAILED: page.goto: Target page, context or browser has been closed
+
+[R badshahpur page 2] navigating...
+[R badshahpur page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sohna page 1] navigating...
+[R sohna page 1] FAILED: page.goto: Target page, context or browser has been closed
+
+[R sohna page 2] navigating...
+[R sohna page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+=== SALE === Already have 0 99acres sale listing(s).
+
+[S sector-1 page 1] navigating...
+[S sector-1 page 1] FAILED: page.goto: Target page, context or browser has been closed
+
+[S sector-1 page 2] navigating...
+[S sector-1 page 2] FAILED: page.goto: Target page, context or browser has been closed
+
+[S sector-2 page 1] navigating...
+[S sector-2 page 1] FAILED: page.goto: Target page, context or browser has been closed

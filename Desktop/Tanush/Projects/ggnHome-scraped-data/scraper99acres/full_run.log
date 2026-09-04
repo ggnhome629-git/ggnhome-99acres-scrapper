@@ -1,0 +1,16 @@
+Connected to MongoDB.
+Already have 0 99acres listing(s) in the DB.
+
+[sector-36 page 1] navigating...
+[sector-36 page 1] scanned=1 new=1 inserted so far=0
+
+[sector-36 page 2] navigating...
+[sector-36 page 2] no listings found, skipping.
+
+[sector-42 page 1] navigating...
+[sector-42 page 1] scanned=25 new=26 inserted so far=0
+
+[sector-42 page 2] navigating...
+[sector-42 page 2] scanned=25 new=51 inserted so far=10
+
+[sector-43 page 1] navigating...

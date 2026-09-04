@@ -1,0 +1,410 @@
+[
+  {
+    "_id": "6a9945b7aeabb333d4e24ae3",
+    "title": "1 RK House for Rent  In Sector 44",
+    "description": "Pg coll living and one Room Set furnished very near to sector 44 newly constructed property",
+    "address": "Independent House, Kanhai Colony ,Near Divya PG, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 350,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 5,
+    "floorForRent": 0,
+    "monthlyRent": 20000,
+    "securityDeposit": "20,000",
+    "moveInDate": "2026-09-01T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_16076_69858_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_20184_470602_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_93917_635261_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_2130_119545_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_1643_595091_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_83527_489500_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_80152_312994_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_2257_692157_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_23720_125338_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_49461_930529_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_17543_57190_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_98765_582068_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_80708_838470_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_18792_964949_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_62025_283602_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_24443_43062_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_63100_786173_original.jpg",
+      "https://assets.nobroker.in/images/8a9fac83946d7ee701946d88ec4b01d1/8a9fac83946d7ee701946d88ec4b01d1_83682_794017_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9fac83946d7ee701946d88ec4b01d1",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-20000/8a9fac83946d7ee701946d88ec4b01d1/detail",
+    "createdAt": "2026-09-03T10:02:31.708Z",
+    "updatedAt": "2026-09-03T10:02:31.708Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b7aeabb333d4e24ae6",
+    "title": "1 BHK House for Rent  In Ector 41",
+    "description": "1 BHK House for Rent  In Ector 41",
+    "address": "Independent House, Sector 17-B, Block F, South City I near Huda City Center Metro Station, ector 41, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 800,
+      "configuration": "1 BHK"
+    },
+    "totalFloors": 3,
+    "floorForRent": 1,
+    "monthlyRent": 20000,
+    "securityDeposit": "40,000",
+    "moveInDate": "2026-07-15T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/static/img/534_notxt.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8aa9b2269f68fce9019f69b728da6f30",
+    "sourceUrl": "https://www.nobroker.in/property/1-bhk-apartment-for-rent-in-ector-41-gurgaon-for-rs-20000/8aa9b2269f68fce9019f69b728da6f30/detail",
+    "createdAt": "2026-09-03T10:02:31.770Z",
+    "updatedAt": "2026-09-03T10:02:31.770Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b7aeabb333d4e24ae9",
+    "title": "3 BHK Flat for Rent  In Sector 45",
+    "description": "3 BHK Flat for Rent  In Sector 45",
+    "address": "standalone building, Bhagwan Mahaveer Marg, near Ramada by Wyndham Gurgaon Central , Sector 45, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "totalArea": {
+      "sqft": 1200,
+      "configuration": "3 BHK"
+    },
+    "totalFloors": 3,
+    "floorForRent": 2,
+    "monthlyRent": 35000,
+    "securityDeposit": "35,000",
+    "moveInDate": "2026-01-11T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9f8f4392f144330192f162bc0007c3/8a9f8f4392f144330192f162bc0007c3_616050_102603_original.jpg",
+      "https://assets.nobroker.in/images/8a9f8f4392f144330192f162bc0007c3/8a9f8f4392f144330192f162bc0007c3_590655_251714_original.jpg",
+      "https://assets.nobroker.in/images/8a9f8f4392f144330192f162bc0007c3/8a9f8f4392f144330192f162bc0007c3_271148_352910_original.jpg",
+      "https://assets.nobroker.in/images/8a9f8f4392f144330192f162bc0007c3/8a9f8f4392f144330192f162bc0007c3_731197_785879_original.jpg",
+      "https://assets.nobroker.in/images/8a9f8f4392f144330192f162bc0007c3/8a9f8f4392f144330192f162bc0007c3_937686_718008_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9f8f4392f144330192f162bc0007c3",
+    "sourceUrl": "https://www.nobroker.in/property/3-bhk-apartment-for-rent-in-sector-45-gurgaon-for-rs-35000/8a9f8f4392f144330192f162bc0007c3/detail",
+    "createdAt": "2026-09-03T10:02:31.827Z",
+    "updatedAt": "2026-09-03T10:02:31.827Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b7aeabb333d4e24aec",
+    "title": "1 RK House for Rent  In Sector 44",
+    "description": "1 RK House for Rent  In Sector 44",
+    "address": "Independent House, Sector 44 Rd, Kanhai Colony, Sector 44, Gurugram, Near Shani Dev Temple, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 300,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 1,
+    "floorForRent": 1,
+    "monthlyRent": 6000,
+    "securityDeposit": "6,000",
+    "moveInDate": "2026-08-30T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/static/img/534_notxt.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8aa992cba055e0ca01a0564f863d4090",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-6000/8aa992cba055e0ca01a0564f863d4090/detail",
+    "createdAt": "2026-09-03T10:02:31.890Z",
+    "updatedAt": "2026-09-03T10:02:31.890Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b7aeabb333d4e24aef",
+    "title": "1 RK Flat for Rent  In Sector 44",
+    "description": "1 RK Flat for Rent  In Sector 44",
+    "address": "Standalone building, Sector 44 Rd near Punjab & Sind Bank, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 300,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 5,
+    "floorForRent": 3,
+    "monthlyRent": 12000,
+    "securityDeposit": "22,000",
+    "moveInDate": "2026-07-02T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9faf827ebf0a82017ebf39fb451750/8a9faf827ebf0a82017ebf39fb451750_97308_400314_original.jpg",
+      "https://assets.nobroker.in/images/8a9faf827ebf0a82017ebf39fb451750/8a9faf827ebf0a82017ebf39fb451750_6297_77212_original.jpg",
+      "https://assets.nobroker.in/images/8a9faf827ebf0a82017ebf39fb451750/8a9faf827ebf0a82017ebf39fb451750_64719_133309_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9faf827ebf0a82017ebf39fb451750",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-12000/8a9faf827ebf0a82017ebf39fb451750/detail",
+    "createdAt": "2026-09-03T10:02:31.955Z",
+    "updatedAt": "2026-09-03T10:02:31.955Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24af2",
+    "title": "1 RK House for Rent  In Sector 44",
+    "description": "shared bathroom",
+    "address": "Independent House, Sector 44 Rd, near Shani Dev Temple, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 200,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 1,
+    "floorForRent": 1,
+    "monthlyRent": 8500,
+    "securityDeposit": "8,500",
+    "moveInDate": "2026-08-29T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/static/img/534_notxt.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9fa2827b109e33017b10b233a60a39",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-8500/8a9fa2827b109e33017b10b233a60a39/detail",
+    "createdAt": "2026-09-03T10:02:32.015Z",
+    "updatedAt": "2026-09-03T10:02:32.015Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24af5",
+    "title": "1 RK Flat for Rent  In Kanahi",
+    "description": "1 RK Flat for Rent  In Kanahi",
+    "address": "standalone building, Kanhai Colony,  near  Girl Primary School, Kanahi, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 300,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 5,
+    "floorForRent": 2,
+    "monthlyRent": 4000,
+    "securityDeposit": "4,000",
+    "moveInDate": "2026-08-25T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9fa58494c50b5e0194c57c96aa35ac/8a9fa58494c50b5e0194c57c96aa35ac_20195_307946_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9fa58494c50b5e0194c57c96aa35ac",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-kanahi-gurgaon-for-rs-4000/8a9fa58494c50b5e0194c57c96aa35ac/detail",
+    "createdAt": "2026-09-03T10:02:32.136Z",
+    "updatedAt": "2026-09-03T10:02:32.136Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24af8",
+    "title": "1 RK House for Rent  In Sector 45",
+    "description": "1 RK House for Rent  In Sector 45",
+    "address": "Independent House, bhagavan mahaveer marg,near Ramada by Wyndham Gurgaon Central, Sector 45, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 200,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 2,
+    "floorForRent": 0,
+    "monthlyRent": 10000,
+    "securityDeposit": "1",
+    "moveInDate": "2026-07-01T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/ff8081816db8bf01016dba19aabc38f9/ff8081816db8bf01016dba19aabc38f9_99120_355886_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "ff8081816db8bf01016dba19aabc38f9",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-45-gurgaon-for-rs-10000/ff8081816db8bf01016dba19aabc38f9/detail",
+    "createdAt": "2026-09-03T10:02:32.208Z",
+    "updatedAt": "2026-09-03T10:02:32.208Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24afb",
+    "title": "1 BHK Flat In Standalone Building  for Rent  In Sector 44",
+    "description": "few more units are available",
+    "address": "Bhagwan Mahaveer Marg near  Ramada by Wyndham Gurgaon Central, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 400,
+      "configuration": "1 BHK"
+    },
+    "totalFloors": 3,
+    "floorForRent": 2,
+    "monthlyRent": 8000,
+    "securityDeposit": "8,000",
+    "moveInDate": "2026-08-16T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9fb2827af113a0017af13b42591205/8a9fb2827af113a0017af13b42591205_14893_704609_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9fb2827af113a0017af13b42591205",
+    "sourceUrl": "https://www.nobroker.in/property/1-bhk-apartment-for-rent-in-sector-44-gurgaon-for-rs-8000/8a9fb2827af113a0017af13b42591205/detail",
+    "createdAt": "2026-09-03T10:02:32.272Z",
+    "updatedAt": "2026-09-03T10:02:32.272Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24afe",
+    "title": "1 RK Flat for Rent  In Sector 44",
+    "description": "bed available\n\t\t\t\t\twithout kitchen, common bathroom",
+    "address": "Standalone building, Kanhai Colony near Punjab & Sind Bank, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 196,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 3,
+    "floorForRent": 3,
+    "monthlyRent": 5000,
+    "securityDeposit": "5,000",
+    "moveInDate": "2026-08-31T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/static/img/534_notxt.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9f974491e50c7b0191e554a03d16a7",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-5000/8a9f974491e50c7b0191e554a03d16a7/detail",
+    "createdAt": "2026-09-03T10:02:32.343Z",
+    "updatedAt": "2026-09-03T10:02:32.343Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24b01",
+    "title": "1 RK House for Rent  In Sector 44",
+    "description": "1 RK House for Rent  In Sector 44",
+    "address": "Independent House, Shani dev mandir,kanhai Colony, Sector 44, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "house",
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 200,
+      "configuration": "1 RK"
+    },
+    "totalFloors": 5,
+    "floorForRent": 1,
+    "monthlyRent": 8500,
+    "securityDeposit": "8,500",
+    "moveInDate": "2026-08-08T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9f9103901f6eb301901fc1b8842524/8a9f9103901f6eb301901fc1b8842524_90023_839624_original.jpg",
+      "https://assets.nobroker.in/images/8a9f9103901f6eb301901fc1b8842524/8a9f9103901f6eb301901fc1b8842524_8076_783289_original.jpg",
+      "https://assets.nobroker.in/images/8a9f9103901f6eb301901fc1b8842524/8a9f9103901f6eb301901fc1b8842524_10197_439697_original.jpg",
+      "https://assets.nobroker.in/images/8a9f9103901f6eb301901fc1b8842524/8a9f9103901f6eb301901fc1b8842524_45578_153080_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9f9103901f6eb301901fc1b8842524",
+    "sourceUrl": "https://www.nobroker.in/property/1-rk-apartment-for-rent-in-sector-44-gurgaon-for-rs-8500/8a9f9103901f6eb301901fc1b8842524/detail",
+    "createdAt": "2026-09-03T10:02:32.408Z",
+    "updatedAt": "2026-09-03T10:02:32.408Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24b04",
+    "title": "1 BHK Villa In Villa for Rent  In Sector 47",
+    "description": "1le person also prefferd",
+    "address": "sector 47 near t point sector 47, sector 47, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "villa",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 800,
+      "configuration": "1 BHK"
+    },
+    "totalFloors": 4,
+    "floorForRent": 3,
+    "monthlyRent": 22000,
+    "securityDeposit": "22,000",
+    "moveInDate": "2026-08-31T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8aa9b4cb9bbb9fa2019bbbfcfa922099/8aa9b4cb9bbb9fa2019bbbfcfa922099_69767_446149_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8aa9b4cb9bbb9fa2019bbbfcfa922099",
+    "sourceUrl": "https://www.nobroker.in/property/1-bhk-apartment-for-rent-in-sector-47-gurgaon-for-rs-22000/8aa9b4cb9bbb9fa2019bbbfcfa922099/detail",
+    "createdAt": "2026-09-03T10:02:32.480Z",
+    "updatedAt": "2026-09-03T10:02:32.480Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a9945b8aeabb333d4e24b07",
+    "title": "1 BHK Flat In Standalone Building  for Rent  In Sector 43",
+    "description": "1 BHK Flat In Standalone Building  for Rent  In Sector 43",
+    "address": "Plot 231, Bhagwan Mahaveer Marg Kanhai, Kanhai Colony near Web Design Solution, Sector 43, gurgaon",
+    "Sector": "Sector 44",
+    "propertyType": "apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "totalArea": {
+      "sqft": 500,
+      "configuration": "1 BHK"
+    },
+    "totalFloors": 4,
+    "floorForRent": 2,
+    "monthlyRent": 35000,
+    "securityDeposit": "40,000",
+    "moveInDate": "2026-06-24T18:30:00.000Z",
+    "images": [
+      "https://assets.nobroker.in/images/8a9f91438f22a91a018f231218e52b61/8a9f91438f22a91a018f231218e52b61_98661_931467_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "sourceListingId": "8a9f91438f22a91a018f231218e52b61",
+    "sourceUrl": "https://www.nobroker.in/property/1-bhk-apartment-for-rent-in-sector-43-gurgaon-for-rs-35000/8a9f91438f22a91a018f231218e52b61/detail",
+    "createdAt": "2026-09-03T10:02:32.541Z",
+    "updatedAt": "2026-09-03T10:02:32.541Z",
+    "__v": 0
+  }
+]

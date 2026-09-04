@@ -1,0 +1,107 @@
+{
+  "generatedAt": "2026-09-03T14:33:28.633Z",
+  "totalSaleListings": 217,
+  "totalRentalListings": 460,
+  "sectors": {
+    "Sector_49": {
+      "sale": 14,
+      "rent": 0
+    },
+    "Sector_50": {
+      "sale": 18,
+      "rent": 38
+    },
+    "Sector_36": {
+      "sale": 2,
+      "rent": 0
+    },
+    "Signature_Global_Sector_36_Sohna": {
+      "sale": 1,
+      "rent": 0
+    },
+    "Sohna": {
+      "sale": 1,
+      "rent": 0
+    },
+    "SECTOR_49": {
+      "sale": 1,
+      "rent": 0
+    },
+    "sector_49": {
+      "sale": 1,
+      "rent": 0
+    },
+    "South_City_II_Sector_49": {
+      "sale": 1,
+      "rent": 0
+    },
+    "Badshahpur": {
+      "sale": 1,
+      "rent": 0
+    },
+    "Sector_44": {
+      "sale": 7,
+      "rent": 13
+    },
+    "Sector_46": {
+      "sale": 30,
+      "rent": 20
+    },
+    "Sector_47": {
+      "sale": 22,
+      "rent": 29
+    },
+    "Sector_42": {
+      "sale": 7,
+      "rent": 25
+    },
+    "Sector_43": {
+      "sale": 22,
+      "rent": 22
+    },
+    "Sector_45": {
+      "sale": 38,
+      "rent": 51
+    },
+    "Sector_48": {
+      "sale": 14,
+      "rent": 24
+    },
+    "Sector_51": {
+      "sale": 11,
+      "rent": 14
+    },
+    "Sector_52": {
+      "sale": 26,
+      "rent": 25
+    },
+    "Sector_54": {
+      "sale": 0,
+      "rent": 33
+    },
+    "Sector_56": {
+      "sale": 0,
+      "rent": 26
+    },
+    "Sector_57": {
+      "sale": 0,
+      "rent": 21
+    },
+    "Sector_58": {
+      "sale": 0,
+      "rent": 16
+    },
+    "Sector_65": {
+      "sale": 0,
+      "rent": 30
+    },
+    "Sector_67": {
+      "sale": 0,
+      "rent": 42
+    },
+    "Sector_70": {
+      "sale": 0,
+      "rent": 31
+    }
+  }
+}

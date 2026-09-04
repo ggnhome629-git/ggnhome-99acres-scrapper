@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "6a994141e95907f28fbd6d76",
+    "title": "4 BHK Flat In Rajniwas Floors For Sale  In Sector 49 ",
+    "description": "4 BHK Flat In Rajniwas Floors For Sale  In Sector 49 ",
+    "price": 60000000,
+    "totalArea": {
+      "sqft": 4300,
+      "configuration": "4 BHK"
+    },
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "location": " Sector 49 near south city II, sector 49 , gurgaon",
+    "Sector": "sector 49 ",
+    "images": [
+      "https://assets.nobroker.in/images/8aa9bb2d9c7e9469019c7f37008a4d13/8aa9bb2d9c7e9469019c7f37008a4d13_29842_837547_original.jpg"
+    ],
+    "ownerType": "Owner",
+    "isActive": true,
+    "isPostedNew": true,
+    "createdAt": "2026-09-03T09:43:29.995Z",
+    "updatedAt": "2026-09-03T09:43:29.995Z",
+    "__v": 0
+  }
+]
